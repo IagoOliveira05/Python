@@ -1,0 +1,11 @@
+• Usar a biblioteca pyautogui
+pyautogui.dragTo(x, y, duration=num_seconds, button='left') 
+↓
+Irá arrastar o mouse da posição atual para a posição X e Y
+
+
+• Rolar o scroll
+pyautogui.scroll(quantia_para_rolar, x=moveToX, y=moveToY)
+↓
+Rolagem positiva irá rolar para cima, rolagem negativa irá rolar
+							para baixo

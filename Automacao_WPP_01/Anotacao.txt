@@ -1,0 +1,6 @@
+Criar um arquivo para quando for um determinado horario mandar uma mensagem no wpp.
+
+Utilizar as bibliotecas:
+    • datetime      -   Para programar a hora
+    • pyautogui     -   Automação do teclado e mouse
+    • pyperclip     -   Copiar e colar textos ou links

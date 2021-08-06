@@ -1,0 +1,11 @@
+• Utilizar a biblioteca pywhatkit
+    Biblioteca para mandar mensagem no WPP, dar PLAY em vídeo no YT e transformar texto em manuscrito.
+
+Link documentação: https://pypi.org/project/pywhatkit/
+
+
+sendwhatmsg_instantly()            -> Manda a mensagem no instante que vc der RUN
+
+sendwhatmsg()                      -> Você têm q colocar a hora e o minuto em que a mensagem será enviada
+
+text_to_handwriting()              -> Tem q escrever o texto que você deseja transformar em cursivo e o endereço que deseja salvar o arquivo png

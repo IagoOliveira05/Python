@@ -1,0 +1,2 @@
+Não foi possível realizar a análise de dados desta aula, pois não aparece
+o gráfico no Jupyter.
