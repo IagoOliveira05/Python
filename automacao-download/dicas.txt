@@ -1,0 +1,3 @@
+Programa que baixa músicas do YouTube automaticamente, utilizando o site Snappea (https://www.snappea.com/pt1/)
+
+É necessário pegar o link do vídeo que você deseja baixar, irá ser baixado um arquivo .MP3, na qualidade mais baixa do site
