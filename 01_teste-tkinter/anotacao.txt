@@ -1,0 +1,2 @@
+Está dando erro na etapa de pegar o link e mandar para a web
+Procurar onde fica armazenado o que foi escrito no campo vazio
